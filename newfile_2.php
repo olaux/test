@@ -1,3 +1,3 @@
 <?php
-echo "heppa.... ein zweites file";
+echo "heppa.... ein zweites file aber anders";
 ?>
